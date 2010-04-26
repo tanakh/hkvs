@@ -1,6 +1,6 @@
 {-# Language OverloadedStrings #-}
 
-module Commands (
+module Command (
   Command(..),
   parse,
   ) where
